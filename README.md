@@ -34,6 +34,5 @@
 <p><a href="https://www.buymeacoffee.com/ardakadirc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ardakadirc" /></a><a href="https://ko-fi.com/ardakadirc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ardakadirc" /></a></p><br><br>
 
 
-<p>&nbsp;<img align="center"alt="ardakadirc" /></p>
 
-<p><img align="center" alt="ardakadirc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ardakadirc&" alt="ardakadirc" /></p>
